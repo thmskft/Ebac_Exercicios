@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.buttonenviar {
+    background-color: greenyellow;
+}
+
+.buttonlimpar {
+    background-color: red;
+}
